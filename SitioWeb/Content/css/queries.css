@@ -1,0 +1,151 @@
+/*--------------------------
+    ---QUERIES----
+----------------------------*/
+
+@media only screen and (max-width:1400px){
+
+    .arrow img{
+        top: 6rem;
+    }
+
+}
+
+@media only screen and (max-width:1200px){
+    .hero-text-box{
+        width: 100%;
+        padding: 0 2%;
+    }
+
+    .row {padding: 0 2%;}
+
+}
+
+@media only screen and (max-width:1023px){
+    
+    body{font-size: 1.8rem;}
+    
+    section{padding: 6rem 0;}
+
+    .main-nav{margin-right: 4rem;}
+
+    .long-copy{
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    .box-location h2 { margin: 20rem 0; }
+
+    .box-location p {
+        margin: 17rem 6rem 19.5rem 10rem;
+        font-size: 1.7rem;
+    }
+
+    .locations-box {margin-left: 1rem;}
+
+}
+
+@media only screen and (max-width:767px){
+    .box-location h2 { margin: 20rem 0; }
+
+    .box-location p {
+        margin: 17rem 6rem 19.5rem 10rem;
+        font-size: 1.7rem;
+    }
+
+    .arrow img{
+        top: 6rem;
+    }
+
+    .mobile-nav-icon{display: inline-block;}
+
+    .mobile-nav{
+        float: left;
+    }
+
+    .main-nav{
+        float: left;
+        display: none;
+        margin-top: 3.5rem;
+    }
+
+    .main-nav li{
+        display: block;
+        margin-bottom: 0rem;
+    }
+
+    .main-nav li:nth-last-of-type(-n+2) {
+        float: none;
+    }
+
+    .main-nav li a:link,
+    .main-nav li a:visited{
+        display: block;
+        border: 0;
+    }
+
+    .sticky .mobile-nav-icon{
+        margin-top: 1rem;
+    }
+
+    .sticky .mobile-nav-icon ion-icon{
+        color: #555;
+    }
+
+    .sticky .main-nav li {
+        margin-bottom: .2rem;
+    }
+
+    .input-box{
+        margin-bottom: .8rem;
+    }
+
+}
+
+@media only screen and (max-width:480px){
+     
+    .box-location h2 { margin: 17rem 0;}
+
+    .box-location p {
+        margin: 17rem 6rem 17rem 6rem;
+        font-size: 1.9rem;
+        text-align: center;
+    }
+
+    .cover-text-box h1 { font-size: 6.5rem; }
+
+    .section-features h2:after { width: 7em; }
+
+    .icon-big{ margin-left: 42%; }
+
+    .locations-box{ margin-left: 0rem; }
+
+    blockquote:before{left: 1.7rem;}
+
+    .plan-box{margin-bottom: 3rem;}
+    
+    .contact-form {width: 90%}
+
+    input[type=submit]{margin-left: 9rem;}
+
+    footer{padding: 2rem;}
+
+    .footer-nav, .social-icons{margin-bottom: 3rem;}
+
+    .flex-container{
+        display: flex;
+        flex-flow: row wrap;
+    }
+
+    .flex-item:nth-of-type(1) { order: 2; }
+    .flex-item:nth-of-type(2) { order: 1; }
+}
+
+@media only screen and (max-width:320px){
+    .cover-text-box h1 {
+        font-size: 5.5rem;
+    }
+
+    .cover-text-box{
+        top: 53%;
+    }
+}

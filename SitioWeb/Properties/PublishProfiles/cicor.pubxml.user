@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Proyectos\Publicaciones\Cicor</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>02/22/2013 07:43:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>04/16/2010 15:16:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll">
+      <publishTime>04/16/2010 15:16:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.dll">
+      <publishTime>04/16/2010 15:16:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>04/16/2010 14:42:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Interception.dll">
+      <publishTime>04/16/2010 14:42:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/23/2012 15:23:58</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/03/2014 20:33:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/SitioWeb.dll">
+      <publishTime>05/06/2019 23:07:35</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 03:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 03:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 14:26:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 03:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/28/2015 03:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/28/2015 03:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/28/2015 03:04:30</publishTime>
+    </File>
+    <File Include="bin/UtileriasGlobales.dll">
+      <publishTime>05/01/2019 03:18:08</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>09/10/2013 17:28:38</publishTime>
+    </File>
+    <File Include="Content/css/animate.css">
+      <publishTime>10/02/2018 23:57:19</publishTime>
+    </File>
+    <File Include="Content/css/custom.css">
+      <publishTime>04/16/2019 00:32:58</publishTime>
+    </File>
+    <File Include="Content/css/grid.css">
+      <publishTime>04/17/2019 23:55:01</publishTime>
+    </File>
+    <File Include="Content/css/ionicons.min.css">
+      <publishTime>04/10/2019 22:46:49</publishTime>
+    </File>
+    <File Include="Content/css/main.css">
+      <publishTime>05/06/2019 22:56:02</publishTime>
+    </File>
+    <File Include="Content/css/queries.css">
+      <publishTime>10/03/2018 22:11:16</publishTime>
+    </File>
+    <File Include="Content/img/AnginaDePecho.jpg">
+      <publishTime>04/15/2019 23:08:47</publishTime>
+    </File>
+    <File Include="Content/img/Arritmia.jpg">
+      <publishTime>04/15/2019 23:10:21</publishTime>
+    </File>
+    <File Include="Content/img/arrow-down-green.png">
+      <publishTime>09/19/2018 00:13:04</publishTime>
+    </File>
+    <File Include="Content/img/arrow-down.png">
+      <publishTime>09/19/2018 00:04:12</publishTime>
+    </File>
+    <File Include="Content/img/aterosclerosis.jpg">
+      <publishTime>04/15/2019 23:19:28</publishTime>
+    </File>
+    <File Include="Content/img/comment-2.jpg">
+      <publishTime>09/20/2018 20:45:11</publishTime>
+    </File>
+    <File Include="Content/img/comment-3.jpg">
+      <publishTime>09/20/2018 20:45:11</publishTime>
+    </File>
+    <File Include="Content/img/comment-4.jpg">
+      <publishTime>09/20/2018 20:45:11</publishTime>
+    </File>
+    <File Include="Content/img/comment.jpg">
+      <publishTime>09/20/2018 20:45:11</publishTime>
+    </File>
+    <File Include="Content/img/cover.jpg">
+      <publishTime>04/10/2019 23:12:13</publishTime>
+    </File>
+    <File Include="Content/img/cover2.jpg">
+      <publishTime>04/10/2019 20:40:44</publishTime>
+    </File>
+    <File Include="Content/img/cover4.jpg">
+      <publishTime>04/10/2019 22:26:03</publishTime>
+    </File>
+    <File Include="Content/img/customer-1.jpg">
+      <publishTime>09/20/2018 20:45:11</publishTime>
+    </File>
+    <File Include="Content/img/customer-2.jpg">
+      <publishTime>09/20/2018 20:45:11</publishTime>
+    </File>
+    <File Include="Content/img/customer-3.jpg">
+      <publishTime>09/20/2018 20:45:11</publishTime>
+    </File>
+    <File Include="Content/img/diabetes.jpg">
+      <publishTime>04/15/2019 23:10:49</publishTime>
+    </File>
+    <File Include="Content/img/embolia.jpg">
+      <publishTime>04/15/2019 23:12:54</publishTime>
+    </File>
+    <File Include="Content/img/fondoLogos.jpg">
+      <publishTime>04/15/2019 20:49:47</publishTime>
+    </File>
+    <File Include="Content/img/fondoPentagonos.png">
+      <publishTime>04/15/2019 21:47:54</publishTime>
+    </File>
+    <File Include="Content/img/logo.png">
+      <publishTime>04/07/2019 15:51:41</publishTime>
+    </File>
+    <File Include="Content/img/logo2.svg">
+      <publishTime>09/18/2018 22:37:44</publishTime>
+    </File>
+    <File Include="Content/img/logo3.png">
+      <publishTime>04/07/2019 15:40:23</publishTime>
+    </File>
+    <File Include="Content/img/logoCompleto.png">
+      <publishTime>04/07/2019 15:36:16</publishTime>
+    </File>
+    <File Include="Content/img/logoCompletoBlanco.png">
+      <publishTime>04/10/2019 23:28:56</publishTime>
+    </File>
+    <File Include="Content/img/paroCardiaco.jpg">
+      <publishTime>04/15/2019 23:11:30</publishTime>
+    </File>
+    <File Include="Content/img/pattern2_lq-1.webp">
+      <publishTime>04/15/2019 21:47:09</publishTime>
+    </File>
+    <File Include="Content/logos/client-logos-4.webp">
+      <publishTime>04/15/2019 21:50:13</publishTime>
+    </File>
+    <File Include="Content/logos/logo1.png">
+      <publishTime>04/15/2019 21:50:34</publishTime>
+    </File>
+    <File Include="Content/logos/logo2.png">
+      <publishTime>04/15/2019 21:50:34</publishTime>
+    </File>
+    <File Include="Content/logos/logo3.png">
+      <publishTime>04/15/2019 21:50:34</publishTime>
+    </File>
+    <File Include="Content/logos/logo4.png">
+      <publishTime>04/15/2019 21:50:34</publishTime>
+    </File>
+    <File Include="Content/messages/notificacionContacto.html">
+      <publishTime>05/06/2019 22:43:43</publishTime>
+    </File>
+    <File Include="Content/messages/notificacionMovimiento.html">
+      <publishTime>05/06/2019 22:19:53</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>04/07/2019 15:45:22</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/07/2019 14:26:08</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/06/2019 22:05:28</publishTime>
+    </File>
+    <File Include="Scripts/jquery.waypoints.min.js">
+      <publishTime>09/03/2016 09:22:49</publishTime>
+    </File>
+    <File Include="Scripts/notify.min.js">
+      <publishTime>05/06/2019 23:01:28</publishTime>
+    </File>
+    <File Include="Scripts/script.js">
+      <publishTime>04/15/2019 23:40:21</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>05/06/2019 22:53:00</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>04/07/2019 14:26:08</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>05/06/2019 23:02:07</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>04/07/2019 14:26:08</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>04/07/2019 14:26:08</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/06/2019 23:06:34</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

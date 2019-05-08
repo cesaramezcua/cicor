@@ -1,0 +1,165 @@
+nav {
+ background-color: rgba(0, 0, 0, 0.6); 
+}
+
+nav ul{
+ text-align: right;
+}
+nav li{
+ float:none;
+}
+
+.main-nav {
+    margin-top: 8rem;
+}
+
+.cover-text-box h1 {
+    color: white;
+    font-size: 6.5rem;
+}
+
+.imgLogo {
+    height: 60px;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.sticky {
+    background-color:#FFFFFF;
+}
+.sticky .nav-logo {
+    width:6%;
+}
+.sticky .imgLogo{
+    display:none;
+}
+
+.sticky li{
+    float:left;
+}
+
+.arrow i {
+  border: solid #FFFFFF;
+  border-width: 0 8px 8px 0;
+  display: inline-block;
+  padding: 15px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+.animateArrow {
+    -webkit-animation: arrow 1s both infinite;
+    animation: arrow 1s both infinite;
+    animation-duration: 1s;
+    animation-timing-function: ease;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+    animation-name: arrow;
+}
+
+
+.section-logo {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(99, 137, 198, 0.4)),url(../img/fondoLogos.jpg);
+    background-size: cover;
+    color: #fff;
+    background-position: bottom;
+    background-attachment: fixed;
+    padding: 0;
+}
+
+.ocultar {
+display: none;
+}
+.mostrar {
+display: inline-block;
+}
+
+.MasInformacion {
+ cursor:pointer;
+ font-weight:bold;
+}
+
+/*.seccionMasInformacion {
+    font-size: 2rem;
+    padding: 50px;
+    width: 98.5%;
+    color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(40, 90, 160, 0.4)),url(../img/fondoLogos.jpg);
+    padding-top: 0;
+}*/
+
+.seccionMasInformacion {
+font-size: 2rem;
+    padding: 50px;
+    width: 98.5%;
+    color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(99, 137, 198, 0.4)),url(../img/fondoPentagonos.png);
+    padding-top: 0;
+    background-color: #285AA9;
+    background-size: contain;
+}
+
+.seccionMasInformacion p {
+    display: inline-block;
+}
+
+.span-1-of-2 {
+    max-height: 448px;
+}
+
+.box-location h2 {
+    height: 447px;
+    line-height: 447px;
+    margin:0;
+}
+
+.section-AnginaDePecho {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(../img/AnginaDePecho.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.section-Arritmia {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(../img/Arritmia.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.section-paroCardiaco {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(../img/paroCardiaco.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.section-diabetes {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(../img/diabetes.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.section-aterosclerosis {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(../img/aterosclerosis.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.section-embolia {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(../img/embolia.jpg);
+    background-size: cover;
+    background-position: center;
+}

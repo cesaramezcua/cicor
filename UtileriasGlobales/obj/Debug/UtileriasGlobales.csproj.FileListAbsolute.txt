@@ -1,0 +1,307 @@
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.dll
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.pdb
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Neodynamic.WebControls.ImageDraw.dll
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.xml
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Neodynamic.WebControls.ImageDraw.xml
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.dll
+C:\Users\cesar.NETCOMMERCE\Documents\Visual Studio 2010\Projects\Sitio_Web\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.pdb
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.dll
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.pdb
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.xml
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Neodynamic.WebControls.ImageDraw.xml
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.dll
+D:\Proyectos\reciclar\Sitio_Web\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.pdb
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.dll
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.pdb
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.xml
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Neodynamic.WebControls.ImageDraw.xml
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.dll
+D:\Proyectos\Providencia\Sitio_Web\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.pdb
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.dll
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.pdb
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.xml
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.dll
+D:\Proyectos\IPAO\Sitio_Web\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.pdb
+D:\Kybel\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.dll.config
+D:\Kybel\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.dll
+D:\Kybel\IPAO\Sitio_Web\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.pdb
+D:\Kybel\IPAO\Sitio_Web\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.dll
+D:\Kybel\IPAO\Sitio_Web\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.pdb
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.dll.config
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.dll
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.pdb
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.dll
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.pdb
+D:\Kybel\Grupo Digital\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.csprojResolveAssemblyReference.cache
+D:\Kybel\KBill\KBill\UtileriasGlobales\obj\Debug\UtileriasGlobales.csprojResolveAssemblyReference.cache
+D:\Kybel\KBill\KBill\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.dll
+D:\Kybel\KBill\KBill\UtileriasGlobales\obj\Debug\Cars.UtileriasGlobales.pdb
+D:\Kybel\KBill\KBill\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.dll.config
+D:\Kybel\KBill\KBill\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.dll
+D:\Kybel\KBill\KBill\UtileriasGlobales\bin\Debug\Cars.UtileriasGlobales.pdb
+D:\Kybel\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Kybel\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Kybel\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Kybel\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Kybel\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Kybel\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Kybel\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\Kybel\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Kybel\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Kybel\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll.config
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\bin\Debug\UtileriasGlobales.pdb
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.dll
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\obj\Debug\UtileriasGlobales.dll
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\obj\Debug\UtileriasGlobales.pdb
+I:\Desarrollo\KBill\KBill\UtileriasGlobales\obj\Debug\UtileriasGlobales.csprojResolveAssemblyReference.cache
+I:\Desarrollo\KMail\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll.config
+I:\Desarrollo\KMail\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll
+I:\Desarrollo\KMail\UtileriasGlobales\bin\Debug\UtileriasGlobales.pdb
+I:\Desarrollo\KMail\UtileriasGlobales\obj\Debug\UtileriasGlobales.csprojResolveAssemblyReference.cache
+I:\Desarrollo\KMail\UtileriasGlobales\obj\Debug\UtileriasGlobales.dll
+I:\Desarrollo\KMail\UtileriasGlobales\obj\Debug\UtileriasGlobales.pdb
+I:\Desarrollo\Jocare\Desarrollo\Jocare\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll.config
+I:\Desarrollo\Jocare\Desarrollo\Jocare\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll
+I:\Desarrollo\Jocare\Desarrollo\Jocare\UtileriasGlobales\bin\Debug\UtileriasGlobales.pdb
+I:\Desarrollo\Jocare\Desarrollo\Jocare\UtileriasGlobales\obj\Debug\UtileriasGlobales.csprojResolveAssemblyReference.cache
+I:\Desarrollo\Jocare\Desarrollo\Jocare\UtileriasGlobales\obj\Debug\UtileriasGlobales.dll
+I:\Desarrollo\Jocare\Desarrollo\Jocare\UtileriasGlobales\obj\Debug\UtileriasGlobales.pdb
+I:\Desarrollo\ViamDei\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll.config
+I:\Desarrollo\ViamDei\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll
+I:\Desarrollo\ViamDei\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.pdb
+I:\Desarrollo\ViamDei\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.dll
+I:\Desarrollo\ViamDei\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.pdb
+I:\Desarrollo\ViamDei\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.csprojResolveAssemblyReference.cache
+I:\Desarrollo\Mr CD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll.config
+I:\Desarrollo\Mr CD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll
+I:\Desarrollo\Mr CD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.pdb
+I:\Desarrollo\Mr CD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.dll
+I:\Desarrollo\Mr CD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.pdb
+I:\Desarrollo\Mr CD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.csprojResolveAssemblyReference.cache
+I:\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll.config
+I:\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll
+I:\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.pdb
+I:\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.dll
+I:\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.pdb
+I:\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.csprojResolveAssemblyReference.cache
+C:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll.config
+C:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll
+C:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.pdb
+C:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.csprojResolveAssemblyReference.cache
+C:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.dll
+C:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.pdb
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll.config
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.pdb
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.xml
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.csprojResolveAssemblyReference.cache
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.dll
+D:\Kybel\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.pdb
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll.config
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\UtileriasGlobales.pdb
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.xml
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.csprojResolveAssemblyReference.cache
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.dll
+D:\Proyectos\Desarrollo\MrCD\Desarrollo\UtileriasGlobales\obj\Debug\UtileriasGlobales.pdb
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll.config
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\UtileriasGlobales.dll
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\UtileriasGlobales.pdb
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.xml
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\obj\Debug\UtileriasGlobales.dll
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\Cicor\UtileriasGlobales\obj\Debug\UtileriasGlobales.pdb
