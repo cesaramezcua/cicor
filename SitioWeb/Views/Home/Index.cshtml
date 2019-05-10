@@ -18,6 +18,14 @@
         </div>
     </nav>
     <div class="cover-text-box">
+
+        
+        <div class="contenedorCita">
+            <ion-icon class="icon-home" name="calendar"></ion-icon>
+            Conócenos, haz una cita
+            <a href="tel:3333333333" class="citaTelefono">(33) 3333-3333</a>
+        </div>
+
         <h1 class="slogan">Clínica de Rehabilitación Cardíaca</h1>
         <a href="#features">
             <div class="arrow animateArrow">
@@ -506,9 +514,10 @@
     <div class="row">
         <h2>¿Interesado? ¡Queremos saber de ti!</h2>
     </div>
-    <div class="row">
-        @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { @class = "contact-form" }))
-        {
+
+        <div class="row">
+            @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { @class = "contact-form" }))
+            {
             <div class="row input-box">
                 <div class="col span-1-of-3">
                     <label for="name">Nombre</label>
@@ -543,7 +552,7 @@
             </div>
             <div class="row ">
                 <div class="col span-1-of-3">
-                    
+
                 </div>
                 <div class="col span-2-of-3">
                     <div class="g-recaptcha" data-sitekey="6LdFH6IUAAAAAMBtJdKxT8j-xhroWM5Fu07VXVPB"></div>
@@ -557,8 +566,12 @@
                     <input type="submit" value="Enviar">
                 </div>
             </div>
-        }
-    </div>
+            }
+        </div>
+
+        <div class="row">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14931.54896196604!2d-103.347573!3d20.674166!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5d5c0a4ae70863ac!2sMr.+CD+Instrumentos!5e0!3m2!1ses-419!2smx!4v1557448577495!5m2!1ses-419!2smx" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
 </section>
 
 <footer>

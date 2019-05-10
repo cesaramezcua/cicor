@@ -163,3 +163,26 @@ font-size: 2rem;
     background-size: cover;
     background-position: center;
 }
+
+.icon-home {
+    color: #285AA9;
+    font-size: 5rem;
+    width: 100%;
+}
+
+.contenedorCita{
+             display: inline-block;
+             height: 280px;
+             color: white;
+             background-color :rgba(0, 0, 0, 0.6);
+             padding: 20px;
+             font-size: 5rem;
+             float :left;
+             width: 350px;}
+
+.citaTelefono {
+    font-size: 4rem;
+    font-style: normal;
+    color: white;
+    text-decoration :none;
+}
