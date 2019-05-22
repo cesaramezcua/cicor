@@ -136,9 +136,14 @@
     <Content Include="Content\img\comment-3.jpg" />
     <Content Include="Content\img\comment-4.jpg" />
     <Content Include="Content\img\comment.jpg" />
+    <Content Include="Content\img\corazon.jpg" />
+    <Content Include="Content\img\corazon2.jpg" />
+    <Content Include="Content\img\corazon3.jpg" />
     <Content Include="Content\img\cover.jpg" />
     <Content Include="Content\img\cover2.jpg" />
+    <Content Include="Content\img\cover3.jpg" />
     <Content Include="Content\img\cover4.jpg" />
+    <Content Include="Content\img\cover5.jpg" />
     <Content Include="Content\img\customer-1.jpg" />
     <Content Include="Content\img\customer-2.jpg" />
     <Content Include="Content\img\customer-3.jpg" />
@@ -146,12 +151,21 @@
     <Content Include="Content\img\embolia.jpg" />
     <Content Include="Content\img\fondoLogos.jpg" />
     <Content Include="Content\img\fondoPentagonos.png" />
+    <Content Include="Content\img\Intro\Educacion.jpg" />
+    <Content Include="Content\img\Intro\EducacionTitulo.jpg" />
+    <Content Include="Content\img\Intro\entrenamientoFisico.jpg" />
+    <Content Include="Content\img\Intro\entrenamientoFisicoTitulo.jpg" />
+    <Content Include="Content\img\Intro\psicoeducacion.jpg" />
+    <Content Include="Content\img\Intro\psicoeducacionTitulo.jpg" />
     <Content Include="Content\img\logo.png" />
     <Content Include="Content\img\logo2.svg" />
     <Content Include="Content\img\logo3.png" />
     <Content Include="Content\img\logoCompleto.png" />
     <Content Include="Content\img\logoCompletoBlanco.png" />
     <Content Include="Content\img\paroCardiaco.jpg" />
+    <Content Include="Content\img\pattern2_lq-1.webp" />
+    <Content Include="Content\img\telefono.png" />
+    <Content Include="Content\logos\client-logos-4.webp" />
     <Content Include="Content\logos\logo1.png" />
     <Content Include="Content\logos\logo2.png" />
     <Content Include="Content\logos\logo3.png" />
@@ -181,10 +195,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Content\img\pattern2_lq-1.webp" />
-    <Content Include="Content\logos\client-logos-4.webp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\UtileriasGlobales\UtileriasGlobales.csproj">

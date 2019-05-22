@@ -78,6 +78,16 @@ nav li{
 }
 
 
+.section-frase {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(99, 137, 198, 0.4)),url(../img/fondoLogos.jpg);
+    background-size: cover;
+    color: #fff;
+    background-position: bottom;
+    background-attachment: fixed;
+    padding: 0;
+    font-size:3rem;
+}
+
 .section-logo {
     background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(99, 137, 198, 0.4)),url(../img/fondoLogos.jpg);
     background-size: cover;
