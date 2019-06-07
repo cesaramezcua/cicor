@@ -105,7 +105,7 @@ header{
     background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)),url(../img/cover.jpg);
     background-size: cover;
     background-attachment: fixed;
-    height: 100vh;
+    height: 80vh;
 }
 
 .cover-text-box{
@@ -250,7 +250,7 @@ img.nav-logo{
 ----------------------------*/
 
 .section-features{
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 .section-features h2:after{
@@ -265,9 +265,8 @@ img.nav-logo{
 
 .long-copy{
     line-height: 145%;
-    width: 70%;
-    margin-left: 15%;
-    text-align: center;
+    width: 90%;
+    text-align: justify;
 }
 
 .box{
@@ -278,7 +277,7 @@ img.nav-logo{
 .box p{
     font-size: 90%;
     line-height: 145%;
-    text-align: center;
+    text-align: justify;
 }
 
 .icon-big{
@@ -328,8 +327,8 @@ img.nav-logo{
 }
 
 .box-location p{
-    margin: 18rem 10rem 19.5rem 10rem;
-    font-size: 2rem;
+    margin: 4rem 6rem 26.5rem 6rem;
+    font-size: 3rem;
 }
 
 /*--------------------------
@@ -451,7 +450,8 @@ textarea{
     height: 10rem;
 }
 
-input[type=submit]{
+input[type=submit],
+.boton{
     display: inline-block;
     padding: 1rem 3rem;
     font-weight: 300;
@@ -464,7 +464,8 @@ input[type=submit]{
     margin-right: 1.5rem;
 }
 
-input[type=submit]:hover{
+input[type=submit]:hover,
+.boton:hover{
     background-color: #6389C6;
     border: 1px solid #6389C6;
     cursor: pointer;

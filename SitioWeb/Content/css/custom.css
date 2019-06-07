@@ -19,7 +19,7 @@ nav li{
 }
 
 .imgLogo {
-    height: 60px;
+    height: 100px;
     position: absolute;
     margin-top: 20px;
 }
@@ -195,4 +195,23 @@ font-size: 2rem;
     font-style: normal;
     color: white;
     text-decoration :none;
+}
+
+.contenedorBeneficios div {
+      padding-right:20px
+}
+
+.contenedorBeneficios figure {
+        width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:20px;
+}
+
+
+.contenedorBeneficios figure img {
+    max-height: 100%;
+    max-width: 100%;
 }
