@@ -132,6 +132,8 @@
     <Content Include="Content\img\arrow-down-green.png" />
     <Content Include="Content\img\arrow-down.png" />
     <Content Include="Content\img\aterosclerosis.jpg" />
+    <Content Include="Content\img\Banner1.png" />
+    <Content Include="Content\img\Banner2.png" />
     <Content Include="Content\img\beneficios\1.png" />
     <Content Include="Content\img\beneficios\2.png" />
     <Content Include="Content\img\beneficios\3.png" />
@@ -153,6 +155,7 @@
     <Content Include="Content\img\cover4.jpg" />
     <Content Include="Content\img\cover5.jpg" />
     <Content Include="Content\img\cover6.jpg" />
+    <Content Include="Content\img\cover7.jpg" />
     <Content Include="Content\img\customer-1.jpg" />
     <Content Include="Content\img\customer-2.jpg" />
     <Content Include="Content\img\customer-3.jpg" />
@@ -161,15 +164,22 @@
     <Content Include="Content\img\fondoLogos.jpg" />
     <Content Include="Content\img\fondoPentagonos.png" />
     <Content Include="Content\img\Intro\Educacion.jpg" />
+    <Content Include="Content\img\Intro\EducacionNutricional.png" />
+    <Content Include="Content\img\Intro\EducacionNutricionalTitulo.png" />
     <Content Include="Content\img\Intro\EducacionTitulo.png" />
     <Content Include="Content\img\Intro\EducacionTitulo2.jpg" />
     <Content Include="Content\img\Intro\entrenamientoFisico.jpg" />
+    <Content Include="Content\img\Intro\EntrenamientoFisico.png" />
     <Content Include="Content\img\Intro\entrenamientoFisicoTitulo.png" />
     <Content Include="Content\img\Intro\entrenamientoFisicoTitulo2.jpg" />
     <Content Include="Content\img\Intro\psicoeducacion.jpg" />
+    <Content Include="Content\img\Intro\Psicoeducacion.png" />
     <Content Include="Content\img\Intro\psicoeducacionTitulo.png" />
     <Content Include="Content\img\Intro\psicoeducacionTitulo2.jpg" />
     <Content Include="Content\img\Intro\psicoeducacionTitulo3.jpg" />
+    <Content Include="Content\img\Intro\TituloEducacionNutricional.png" />
+    <Content Include="Content\img\Intro\TituloEntrenamientoFisico.png" />
+    <Content Include="Content\img\Intro\TituloPsicoeducacion.png" />
     <Content Include="Content\img\logo.png" />
     <Content Include="Content\img\logo2.svg" />
     <Content Include="Content\img\logo3.png" />
@@ -207,7 +217,9 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="packages.config" />
+    <Content Include="packages.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\UtileriasGlobales\UtileriasGlobales.csproj">
