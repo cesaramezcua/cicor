@@ -305,3 +305,4 @@ D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\cicor\UtileriasGlobales\bin\Debug\
 D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\cicor\UtileriasGlobales\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
 D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\cicor\UtileriasGlobales\obj\Debug\UtileriasGlobales.dll
 D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\cicor\UtileriasGlobales\obj\Debug\UtileriasGlobales.pdb
+D:\Proyectos\Desarrollo Repo\Cicor\Desarrollo\cicor\UtileriasGlobales\obj\Debug\UtileriasGlobales.csprojResolveAssemblyReference.cache

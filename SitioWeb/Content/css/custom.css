@@ -78,12 +78,22 @@ nav li{
 }
 
 
-.section-frase {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(99, 137, 198, 0.4)),url(../img/fondoLogos.jpg);
+.section-frase1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(99, 137, 198, 0.4)),url(../img/Banner1.png);
     background-size: cover;
     color: #fff;
-    background-position: bottom;
-    background-attachment: fixed;
+    /*background-position: bottom;
+    background-attachment: fixed;*/
+    padding: 0;
+    font-size:3rem;
+}
+
+.section-frase2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(99, 137, 198, 0.4)),url(../img/Banner2.png);
+    background-size: cover;
+    color: #fff;
+    /*background-position: bottom;
+    background-attachment: fixed;*/
     padding: 0;
     font-size:3rem;
 }
@@ -214,4 +224,70 @@ font-size: 2rem;
 .contenedorBeneficios figure img {
     max-height: 100%;
     max-width: 100%;
+}
+
+.lineaBanner {
+    display: inline-block;
+    width: 30%;
+    height: 7px;
+    background-color: rgba(255,255,255,.5);
+    border: 1px solid rgba(255,255,255,.5);
+    border-radius: 7px 7px 7px 7px;
+    margin-top: 24px;
+}
+
+.floatRight {
+float:right;
+}
+.floatLeft {
+float:left;
+}
+
+.banner1seccion1 {
+    background-color: rgba(117,0,20,.5);
+    padding:2px 5px;    
+    display: inline-block;
+}
+.banner1seccion2 {
+    font-weight: bold;
+    background-color: rgba(117,0,20,.5);
+    margin-left: 20px;
+    padding:2px 5px;    
+    display: inline-block;
+    font-size: 4rem;
+}
+
+
+.banner2seccion1 {
+    background-color: rgba(117,0,20,.5);
+    padding:2px 5px;    
+    display: inline-block;
+}
+.banner2seccion2 {
+    font-weight: bold;
+    background-color: rgba(117,0,20,.5);
+    margin-left: 20px;
+    padding:2px 5px;    
+    display: inline-block;
+    font-size: 4rem;
+}
+
+.comoFuncionaImagen {
+    height:200px;
+    margin-bottom:10px;
+}
+.comoFuncionaImagenTitulo {
+    height:70px;
+}
+
+.botonCita {
+
+  background-color: #5D0D18; /* For browsers that do not support gradients */
+  background-image: linear-gradient(#D00107, #5D0D18); /* Standard syntax (must be last) */
+}
+
+.botonCita:hover {
+    border: 1px solid #5D0D18;
+  background-color: #5D0D18; /* For browsers that do not support gradients */
+  background-image: linear-gradient(#5D0D18, #D00107); /* Standard syntax (must be last) */
 }

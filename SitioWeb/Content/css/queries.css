@@ -11,6 +11,9 @@
 }
 
 @media only screen and (max-width:1200px){
+    .lineaBanner {
+        width: 20%;
+    }
     .hero-text-box{
         width: 100%;
         padding: 0 2%;
@@ -49,6 +52,11 @@
 }
 
 @media only screen and (max-width:767px){
+    
+    .lineaBanner {
+        width: 9%;
+    }
+
     .box-location h2 { margin: 20rem 0; }
 
     .box-location p {
