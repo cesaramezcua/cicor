@@ -136,6 +136,45 @@
 }
 
 @media only screen and (max-width:480px){
+
+    #contacto img {
+        height: 50px;
+    }
+
+    .contenedorBeneficios figure {
+        width: 100%;
+    }
+
+    .contenedorBeneficios figure img {
+        right: 0;
+        left: 0;
+        margin: auto;
+    }
+
+    .videoCicor {
+        height:200px !important;
+    }
+
+    .sticky .main-nav {
+        text-align:left;
+    }
+    
+    .sticky .main-nav li {
+        width:100%
+    }
+
+
+    .botonCita {
+    width:100%;
+    }
+
+    .lineaBanner {
+        display:none;
+    }
+
+    .imgLogo {
+    height:70px;
+    }
      
     .box-location h2 { margin: 17rem 0;}
 

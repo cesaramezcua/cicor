@@ -28,7 +28,7 @@ nav li{
     background-color:#FFFFFF;
 }
 .sticky .nav-logo {
-    width:6%;
+    width: 100px;
 }
 .sticky .imgLogo{
     display:none;
@@ -291,3 +291,17 @@ float:left;
   background-color: #5D0D18; /* For browsers that do not support gradients */
   background-image: linear-gradient(#5D0D18, #D00107); /* Standard syntax (must be last) */
 }
+
+.sticky .imgLogo {
+display:none !important;
+}
+
+.sticky .mobile-nav-icon .ion-md-menu,
+.sticky .mobile-nav-icon .ion-md-close {
+        color: #576574; 
+}
+
+.main-nav a {
+cursor:pointer;
+}
+
