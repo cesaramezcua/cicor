@@ -72,7 +72,7 @@ h1,h2{
 }
 
 h2{
-    font-size: 4rem;
+    font-size: 30px;
     word-spacing: .2rem;
     text-align: center;
     margin-bottom: 3rem;
@@ -90,12 +90,12 @@ h3{
 ------------------------------*/
 
 .row{
-    max-width: 114rem;
+    max-width: 130rem;
     margin: 0 auto;
 }
 
 section{
-    padding: 8rem 0;
+    padding: 10rem 0;
 }
 
 /*-----------------
@@ -110,11 +110,11 @@ header{
 }
 
 .cover-text-box{
-    max-width: 1140px;
+    max-width: 1500px;
     width: 100%;
     text-align: center;
     position: absolute;
-    top: 50%;
+    top: 7%;
     left: 50%;
     transform: translate(-50%,-50%);
     overflow: hidden;
@@ -200,8 +200,13 @@ img.nav-logo{
     left: 0;
     width:100%;
     background-color: rgba(255, 255, 255, 0.986);
-    box-shadow: 0 1px 1px rgb(231, 231, 231);
+    box-shadow: 0 1px 10px rgb(231, 231, 231);
     z-index:1;
+    max-width: 1600px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 70px;
 }
 
 .sticky .main-nav{margin-top: 1.5rem;}
@@ -253,7 +258,7 @@ img.nav-logo{
 ----------------------------*/
 
 .section-features{
-    font-size: 3rem;
+    font-size: 20px;
 }
 
 .section-features h2:after{
@@ -273,14 +278,14 @@ img.nav-logo{
 }
 
 .box{
-    margin-top:5% !important;
+    margin-top:1% !important;
     margin-left: 1% !important;
 }
 
 .box p{
     font-size: 90%;
     line-height: 145%;
-    text-align: justify;
+    text-align: left;
 }
 
 .icon-big{
@@ -329,8 +334,9 @@ img.nav-logo{
 }
 
 .box-location p{
-    margin: 4rem 6rem 26.5rem 6rem;
-    font-size: 3rem;
+    margin: 80px 160px 160px 80px;
+    font-size: 20px;
+    min-height: 207px;
 }
 
 /*--------------------------
@@ -343,7 +349,7 @@ img.nav-logo{
     color: #fff;
     background-position: bottom;
     background-attachment: fixed;
-    
+    padding: 2rem;
 }
 
 blockquote{
@@ -430,7 +436,7 @@ cite img{
 ----------------------------*/
 
 .section-form{
-    background-color:#ecf0f1;
+    background-color:#F8FBFE;
     font-size: 2rem;
 }
 

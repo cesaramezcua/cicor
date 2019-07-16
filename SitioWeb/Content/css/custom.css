@@ -1,3 +1,18 @@
+.mainBack {
+    background: #eceff1;
+}
+
+.mainContainer {
+    background: #fff;
+    -webkit-box-shadow: 0 8px 32px 0 rgba(0,0,0,.08);
+    box-shadow: 0 8px 32px 0 rgba(0,0,0,.08);
+    height: 100%;
+    margin: auto;
+    max-width: 1600px;
+    min-width: 320px;
+    position: relative;
+}
+
 nav {
  background-color: rgba(0, 0, 0, 0.6); 
 }
@@ -28,7 +43,7 @@ nav li{
     background-color:#FFFFFF;
 }
 .sticky .nav-logo {
-    width: 100px;
+    width: 70px;
 }
 .sticky .imgLogo{
     display:none;
@@ -79,23 +94,25 @@ nav li{
 
 
 .section-frase1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(99, 137, 198, 0.4)),url(../img/Banner1.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(99, 137, 198, 0.1)),url(../img/Banner1.png);
     background-size: cover;
     color: #fff;
     /*background-position: bottom;
     background-attachment: fixed;*/
     padding: 0;
     font-size:3rem;
+    min-height: 175px;
 }
 
 .section-frase2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(99, 137, 198, 0.4)),url(../img/Banner2.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(99, 137, 198, 0.1)),url(../img/Banner2.png);
     background-size: cover;
     color: #fff;
     /*background-position: bottom;
     background-attachment: fixed;*/
     padding: 0;
     font-size:3rem;
+    min-height: 175px;
 }
 
 .section-logo {
@@ -305,3 +322,10 @@ display:none !important;
 cursor:pointer;
 }
 
+
+#rehabilitacion .box{
+    -webkit-box-shadow: 0 8px 24px 0 rgba(0,0,0,.05);
+    box-shadow: 0 8px 24px 0 rgba(0,0,0,.05);
+    min-height: 450px;
+    padding:20px;
+}
