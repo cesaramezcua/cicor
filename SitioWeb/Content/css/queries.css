@@ -29,6 +29,11 @@
 
 @media only screen and (max-width:1023px){
     
+    .section-frase1,
+    .section-frase2 {
+        height:8rem;
+    }
+
     body{font-size: 1.8rem;}
     
     section{padding: 6rem 0;}
@@ -51,7 +56,16 @@
 
 }
 
+@media only screen and (max-width:960px) {
+}
+
 @media only screen and (max-width:767px){
+    
+    .section-frase1,
+    .section-frase2 {
+        height:6rem;
+    }
+
     .cover-text-box {
         top: 4%;
     }
@@ -135,10 +149,13 @@
 
 }
 
-@media only screen and (max-width:960px) {
-}
-
 @media only screen and (max-width:480px){
+   
+    .section-frase1,
+    .section-frase2 {
+        height:4rem;
+    }
+
     .box p {
         text-align: center;
         margin-bottom:10px

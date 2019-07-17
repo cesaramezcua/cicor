@@ -97,22 +97,20 @@ nav li{
     background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(99, 137, 198, 0.1)),url(../img/Banner1.png);
     background-size: cover;
     color: #fff;
-    /*background-position: bottom;
-    background-attachment: fixed;*/
+    height:13rem;
+    background-repeat: no-repeat;
+    background-position: center center;
     padding: 0;
-    font-size:3rem;
-    min-height: 175px;
 }
 
 .section-frase2 {
     background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(99, 137, 198, 0.1)),url(../img/Banner2.png);
     background-size: cover;
     color: #fff;
-    /*background-position: bottom;
-    background-attachment: fixed;*/
+    height:13rem;
+    background-repeat: no-repeat;
+    background-position: center center;
     padding: 0;
-    font-size:3rem;
-    min-height: 175px;
 }
 
 .section-logo {
@@ -239,8 +237,8 @@ font-size: 2rem;
 
 
 .contenedorBeneficios figure img {
-    max-height: 100%;
-    max-width: 100%;
+    max-height: 70%;
+    max-width: 70%;
 }
 
 .lineaBanner {
