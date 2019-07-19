@@ -27,8 +27,17 @@
     }
 }
 
-@media only screen and (max-width:1023px){
+@media only screen and (max-width:1024px){
     
+
+    .cover-text-box {
+        top: 5%;
+    }
+
+    #quienSomos .contenedorBeneficios .col{
+        min-height: 400px;
+    }
+
     .section-frase1,
     .section-frase2 {
         height:8rem;
@@ -56,11 +65,12 @@
 
 }
 
-@media only screen and (max-width:960px) {
-}
-
 @media only screen and (max-width:767px){
     
+    #quienSomos .contenedorBeneficios .col{
+        min-height: initial;
+    }
+
     .section-frase1,
     .section-frase2 {
         height:6rem;
@@ -251,6 +261,6 @@
     }
 
     .cover-text-box{
-        top: 53%;
+        top: 2%;
     }
 }

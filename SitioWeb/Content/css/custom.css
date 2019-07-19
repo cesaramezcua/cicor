@@ -227,18 +227,17 @@ font-size: 2rem;
 }
 
 .contenedorBeneficios figure {
-        width: 200px;
+    width: 200px;
     height: 200px;
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
-    margin-bottom:20px;
 }
 
 
 .contenedorBeneficios figure img {
-    max-height: 70%;
-    max-width: 70%;
+    max-height: 80%;
+    max-width: 80%;
 }
 
 .lineaBanner {
@@ -326,4 +325,16 @@ cursor:pointer;
     box-shadow: 0 8px 24px 0 rgba(0,0,0,.05);
     min-height: 450px;
     padding:20px;
+}
+
+#quienSomos .box p {
+    text-align: center;
+}
+
+#quienSomos .contenedorBeneficios .col{
+    -webkit-box-shadow: 0 8px 24px 0 rgba(0,0,0,.05);
+    box-shadow: 0 8px 24px 0 rgba(0,0,0,.05);
+    min-height: 320px;
+    padding: 20px;
+    text-align:center;
 }
