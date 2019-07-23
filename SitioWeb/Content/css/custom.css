@@ -152,6 +152,7 @@ font-size: 2rem;
     padding-top: 0;
     background-color: #285AA9;
     background-size: contain;
+    order: 3;
 }
 
 .seccionMasInformacion p {
@@ -338,3 +339,30 @@ cursor:pointer;
     padding: 20px;
     text-align:center;
 }
+
+#conociendo .row {
+ margin-bottom:5px;
+}
+
+.VerMasResponsive {
+    display:none;
+    cursor:pointer;
+    color: white;
+    margin-bottom:5px;
+    }   
+
+    .info-conociendo-ver {
+      max-height:initial !important;
+      display:inline-block !important;
+    }
+
+    .info-conociendo-ver p {
+        margin: 10px !important;
+      min-height:initial !important;
+    }
+
+    .info-conociendo-ver .MasInformacion {
+        width:100%;
+        margin-top:10px;
+        display: block;
+    }

@@ -197,6 +197,15 @@
     <Content Include="Content\messages\notificacionMovimiento.html" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Scripts\carousel\assets\ajax-loader.gif" />
+    <Content Include="Scripts\carousel\assets\owl.carousel.css" />
+    <Content Include="Scripts\carousel\assets\owl.carousel.min.css" />
+    <Content Include="Scripts\carousel\assets\owl.theme.default.css" />
+    <Content Include="Scripts\carousel\assets\owl.theme.default.min.css" />
+    <Content Include="Scripts\carousel\assets\owl.theme.green.css" />
+    <Content Include="Scripts\carousel\assets\owl.theme.green.min.css" />
+    <Content Include="Scripts\carousel\assets\owl.video.play.png" />
+    <Content Include="Scripts\carousel\owl.carousel.min.js" />
     <Content Include="Scripts\jquery.waypoints.min.js" />
     <Content Include="Scripts\notify.min.js" />
     <Content Include="Scripts\script.js" />
