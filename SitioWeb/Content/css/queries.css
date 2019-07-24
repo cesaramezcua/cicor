@@ -159,6 +159,26 @@
 }
 
 @media only screen and (max-width:480px){
+
+    #quienSomos .contenedorBeneficios .col {
+        width: 49%;
+        display: inline-block;
+        padding: 5px;
+    }
+
+    .ben1,.ben2{
+        min-height: 324px !important;
+    }
+    .ben3,.ben4{
+        min-height: 300px !important;
+    }
+    .ben5,.ben6{
+        min-height: 402px !important;
+    }
+    .ben7,.ben8{
+        min-height: 330px !important;
+    }
+
     .VerMasResponsive {
     display:inline-block;
     }
